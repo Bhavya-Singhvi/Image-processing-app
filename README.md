@@ -1,23 +1,15 @@
-Image Processing Web Application
+Image Processing Web Application:
 An interactive web application built using Python and Streamlit that provides a set of image processing features like image uploading, resizing, resolution changing, adding filters, edge detection, rotation, flipping, and grayscale conversion.
 
 Features ✨
 Upload Images (JPG, PNG, JPEG)
-
 Resize Images
-
 Change Resolution
-
 Apply Filters:
-
 Grayscale
-
 Edge Detection
-
 Blur Effect
-
 Rotate / Flip Images
-
 Download Processed Image
 
 Tech Stack 🛠️
